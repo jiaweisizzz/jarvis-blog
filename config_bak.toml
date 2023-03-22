@@ -1,0 +1,12 @@
+baseURL = 'https://jiaweisizzz.github.io'
+languageCode = 'zh-cn'
+title = 'JARVIS是只喵'
+theme = 'massively'
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+
+[languages]
+[languages.cn]
+  languageName = "中文"
