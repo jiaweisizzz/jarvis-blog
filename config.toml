@@ -1,6 +1,7 @@
 baseURL = "https://jiaweisizzz.github.io"
 title = "JARVIS"
 
+
 theme = "puppet"
 
 copyright = ""
